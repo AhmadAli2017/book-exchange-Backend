@@ -104,12 +104,6 @@ The project uses JWT for authentication. Make sure to login using the appropriat
 │   ├── .env
 │   ├── server.js
 │   └── package.json
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   ├── public/
-│   ├── .env
-│   └── package.json
 └── README.md
 ```
 
